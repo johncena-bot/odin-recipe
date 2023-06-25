@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(11, 24, 38);
+}
+h1 {
+    color: whitesmoke;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+}
+div {
+    text-align: center;
+    font-family: monospace;
+}
+a {
+    font-size: 28px;
+    text-decoration: none;
+    color:aliceblue;
+    text-decoration:underline;
+}
+.homepage_food_pic {
+    width: 700px;
+    height: auto;
+    margin-bottom: 3em;
+    margin-top: 3em;
+    border-color: white;
+}
+li {
+    margin: 1.5em auto 1.5em auto;
+}
